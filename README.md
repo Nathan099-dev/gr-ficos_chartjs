@@ -1,1 +1,1 @@
-# gr-ficos_chartjs
+# gráficos_chartjs
